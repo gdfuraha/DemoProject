@@ -1,0 +1,1 @@
+//how to create a table in c?   
